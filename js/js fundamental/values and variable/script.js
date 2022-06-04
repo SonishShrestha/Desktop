@@ -1,3 +1,3 @@
 let agenumber = 70;
-agenumber = 90;
+agenumber = 60;
 console.log(agenumber)
