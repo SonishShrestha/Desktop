@@ -1,3 +1,3 @@
-let agenumber = 70;
-agenumber = 60;
-console.log(agenumber)
+const calcAge = birthYear => 2021-birthYear;
+
+console.log(calcAge(2000))
